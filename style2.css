@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css?family=Courgette|Open+Sans:400,800&display=swap');
+
+
+html, body{
+    height: 100%;
+	width: 100%;    
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+}
+
+
+.nav-back{
+    background: #6CA47D;
+    color: #fff;
+}
+.fixed-top{
+    position: sticky;
+}
+.navbar-brand{
+    color: #fff;
+}
+.navbar-brand:hover{
+    color: #6CA47D;
+}
+.nav-link{
+    color: #fff;
+}
+.nav-link:hover{
+    color:#fff;
+}
+.navbar-toggler{
+    outline: none!important;
+}
+.navbar-nav{
+  float: right;
+  position:initial;
+  left: auto;
+  right: 0;
+  max-width: 767px;
+}
+#head {
+    width: 100%;
+    height: 80vh;
+    position: relative;
+    
+  }
+  #head .container {
+    padding-top: 80px;
+    
+  }
+#head h1 {
+    margin: 0 0 10px 0;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 56px;
+    color: #6CA47D;
+    padding-left: 10px;
+    
+    text-transform: uppercase;
+    
+  }
+  
+  #head h2 {
+    color: #6CA47D;
+    margin-bottom: 40px;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: "Open Sans", sans-serif;
+    letter-spacing: 0.5px;
+    padding-left: 10px;
+  }
+.heading{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+
+}
+.heading2{
+    padding-top: 60px;
+    font-size: 45px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    justify-content: center;
+
+}
+.subtitle{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+
+}
+.subtitle2{
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    justify-content: center;
+
+}
+.pointers{
+    font-size: 25px;
+    font-family: 'Open Sans', sans-serif;
+}
+.mainbutt {
+    font-family: "Poppins", sans-serif;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 8px 28px;
+    border-radius: 50px;
+    transition: 0.5s;
+    margin: 10px;
+    border: 2px solid #6CA47D;
+    color: #6CA47D;
+    background: #fff;
+  }
+  .surveybutt {
+    font-family: "Poppins", sans-serif;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 8px 28px;
+    border-radius: 50px;
+    transition: 0.5s;
+    margin: 10px;
+    border: 2px solid #6CA47D;
+    color: #6CA47D;
+    flex-wrap: wrap;
+    position: relative;
+    justify-content: center;
+  }
+  .entire{
+    text-align: center;
+    vertical-align: middle;
+    position: relative;
+    
+  }
+  .slotbutt{
+    font-family: "Poppins", sans-serif;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 14px;
+    display: inline-block;
+    padding: 8px 28px;
+    border-radius: 50px;
+    transition: 0.5s;
+    margin: 10px;
+    border: 2px solid #6CA47D;
+    color: #6CA47D;
+    background-color: #fff;
+  }
